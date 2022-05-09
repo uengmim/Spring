@@ -43,3 +43,12 @@ Proxy Class를 통해 대신 전달하는 형태로 설계되며 실제 Client�
 Decorator pattern은 기존 클래스는 유지하되 이후 필요한 형태로 꾸밀 때 사용. 확장이 필요한 경우 상속의 대안으로도 활용
 **SOLID 중에서 개방 폐쇄 원칙과 의존 역전 원칙을 따름**
 
+![4](https://user-images.githubusercontent.com/72143238/167342974-b56b3205-4d40-430d-88d4-a9bbb63528f7.JPG)
+
+## Observer pattern
+###### ( 구조패턴 )
+
+Observer pattern은 변화가 일어났을 때 미리 등록된 다른 클래스에 통보해주는 패턴을 구현
+event listener에서 해당 패턴을 많이 사용
+
+

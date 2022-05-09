@@ -24,7 +24,7 @@ Singleton 패턴은 어떠한 클래스가 유일하게 1개만 존재 할 때 �
 
 Adapter는 실생활에서는 100v를 220v로 변경해주거나, 그 반대로 해주는 흔히 돼지 코라고 불리는 변환기가 예로 들 수 있다.
 호환성이 없는 기존 클래스의 인터페이스를 변환하여 재사용 할 수 있도록 한다.
-SOLID중에서 개방 폐쇄원칙을 따른다.
+**SOLID중에서 개방 폐쇄원칙을 따른다.**
 
 ![image2](https://user-images.githubusercontent.com/72143238/167341465-1eabb8b5-5ea7-42f0-bb0f-77386acab702.JPG)
 
@@ -33,6 +33,7 @@ SOLID중에서 개방 폐쇄원칙을 따른다.
 
 Proxy는 대리인이라는 뜻으로 뭔가를 대신해서 처리하는 것
 Proxy Class를 통해 대신 전달하는 형태로 설계되며 실제 Client는 Proxy로부터 결과를 받음. Cache의 기능으로 활용 가능.
+
 **SOLID 중에서 개방 폐쇄 원칙과 의존 역전 원칙을 따름**
 
 ![3](https://user-images.githubusercontent.com/72143238/167342578-3a116f11-477e-49c1-af21-85fff722059c.JPG)
@@ -41,5 +42,6 @@ Proxy Class를 통해 대신 전달하는 형태로 설계되며 실제 Client�
 ###### ( 구조패턴 )
 
 Decorator pattern은 기존 클래스는 유지하되 이후 필요한 형태로 꾸밀 때 사용. 확장이 필요한 경우 상속의 대안으로도 활용
+
 **SOLID 중에서 개방 폐쇄 원칙과 의존 역전 원칙을 따름**
 

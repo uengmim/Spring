@@ -15,4 +15,5 @@
 **Singleton 패턴은 어떠한 클래스가 유일하게 1개만 존재 할 때 사용한다.
 이를 주로 사용하는 곳은 서로 자원을 공유 할 때 사용하는데, 실물 세계에서는 프린터가 해당되며,
 실제 프로그래밍에서는 TCP Socket 통신에서 서버와 연결된 connect 객체에 주로 사용한다.
-<img src="Singleton.jpeg" width="300">
+![singleton](https://user-images.githubusercontent.com/72143238/167341133-32affa5d-db4b-480a-88ca-d818d044a0b4.JPG)
+

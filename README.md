@@ -2,6 +2,7 @@
 
 ## Spring의 특징
 ![1](https://user-images.githubusercontent.com/72143238/170435992-70a0384d-c1a1-4560-8894-62ed7fb3815b.JPG)
+<br>
 **POJO - 자바 프레임의 클래스**
 
 ### IoC/DI
@@ -16,7 +17,6 @@
 - 순환 참조를 막을 수 있음.
 <br>
 ### AOP <br>
-
 **Aop (Aspect Oriented Programming, 관전지향 프로그램)**<br>
 스프링 어플리케이션은 대부분 ㅌMVC웹 어플리케이션에서는 Web Layer, Business Layer, Data Layer로 정의 <br>
 *Web Layer: Rest API를 제공하며 Client 중심의 로직 적용* <br>

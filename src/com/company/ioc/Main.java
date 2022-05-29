@@ -11,9 +11,8 @@ public class Main {
 
         //url encoding
 
-        Encoder encoder = new Encoder();
+        Encoder encoder = new Encoder(new Base64Encoder());
         String result = encoder.encode(url);
-
         System.out.println(result);
     }
 }

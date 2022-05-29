@@ -16,7 +16,7 @@
 - 코드를 확장하거나 변경할 때 영향을 최소화함.
 - 순환 참조를 막을 수 있음.
 <br>
-### AOP <br>
+### AOP 
 **Aop (Aspect Oriented Programming, 관전지향 프로그램)**<br>
 스프링 어플리케이션은 대부분 ㅌMVC웹 어플리케이션에서는 Web Layer, Business Layer, Data Layer로 정의 <br>
 *Web Layer: Rest API를 제공하며 Client 중심의 로직 적용* <br>

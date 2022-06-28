@@ -44,8 +44,4 @@ public class CalculatorApiController {
         return res;
     }
 
-/*    @RequestMapping("/sum")
-    public int mapping(@RequestBody CalculatorReq calculatorReq){
-        return dollarCalculator.sum(calculatorReq.getX(), calculatorReq.getY());
-    }*/
-}
+

@@ -30,3 +30,6 @@
 Back-end에서 Client로 다른 Server와의 연결<br>
 Data Layer
 ---------------------------------------------------------------------------------------------------------
+### Browser
+![image](https://user-images.githubusercontent.com/72143238/179262811-383378b0-2314-46a2-a35c-dcfee37289e5.png)
+![image](https://user-images.githubusercontent.com/72143238/179262940-27e420ff-5e9b-41d7-919b-f02cfba182bb.png)
